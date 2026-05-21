@@ -90,10 +90,10 @@ Maximum Marginal Relevance balances **relevance** (close to your question) with 
 ***
 ## Screenshots
 
-![Home screen](dashboard.png)
+![Home screen](img.png)
 *Upload any PDF and get started with suggested questions*
 
-![Answer with citations](img.png)
+![Answer with citations](dashboard.png)
 *Grounded answers with page-level citations*
 
 
