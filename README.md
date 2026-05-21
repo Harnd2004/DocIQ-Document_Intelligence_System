@@ -88,6 +88,14 @@ Three techniques are combined in every query:
 Maximum Marginal Relevance balances **relevance** (close to your question) with **diversity** (not all chunks saying the same thing). This prevents retrieving five near-duplicate passages and instead surfaces broader context from across the document.
 
 ***
+## Screenshots
+
+![Home screen](dashboard.png)
+*Upload any PDF and get started with suggested questions*
+
+![Answer with citations](img.png)
+*Grounded answers with page-level citations*
+
 
 ## Quick Start
 
